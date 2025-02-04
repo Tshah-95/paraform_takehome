@@ -1,0 +1,924 @@
+[
+  {
+    "id": 4063668007,
+    "name": "Founding Full Stack Engineer",
+    "status": "open",
+    "opened_at": "2023-09-29T14:34:57.348Z",
+    "departments": ["Marketing"],
+    "openings": 1,
+    "employment_type": "Contract",
+    "salary_details": {
+      "min_value": "150000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "Sydney",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div>We are seeking a talented Sample Job 1 to join our team! Reporting into our Marketing department, this role will implement and develop operational standards, policies and procedures to expanded cross-functional organizational capacity and implement successful strategies to maximize revenue.<div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4125389007,
+    "name": "Founding Customer Success Lead",
+    "status": "open",
+    "opened_at": "2024-01-15T02:04:20.180Z",
+    "departments": ["Customer Service"],
+    "openings": 1,
+    "employment_type": null,
+    "salary_details": {
+      "min_value": "60000.0",
+      "max_value": "100000.0",
+      "unit": "USD"
+    },
+    "location": "San Francisco",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div><p>testing</p><div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "LinkedIn Profile",
+        "name": "question_5137983007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "Website",
+        "name": "question_5137982007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "test",
+        "name": "question_5207647007",
+        "type": "long_text",
+        "values": [],
+        "description": "<p>seatds</p>"
+      }
+    ]
+  },
+  {
+    "id": 4063669007,
+    "name": "Sample Job 2",
+    "status": "open",
+    "opened_at": "2023-09-29T14:34:57.898Z",
+    "departments": ["Customer Service"],
+    "openings": 1,
+    "employment_type": "Temporary",
+    "salary_details": {
+      "min_value": "150000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "Sydney",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div>We are seeking a talented Sample Job 2 to join our team! Reporting into our Customer Service department, this role will implement and develop operational standards, policies and procedures to expanded cross-functional organizational capacity and implement successful strategies to maximize revenue.<div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4063671007,
+    "name": "Sample Job 4",
+    "status": "open",
+    "opened_at": "2023-09-29T14:34:59.190Z",
+    "departments": ["Customer Service"],
+    "openings": 1,
+    "employment_type": "Intern",
+    "salary_details": {
+      "min_value": "150000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "Philippines",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div>We are seeking a talented Sample Job 4 to join our team! Reporting into our Customer Service department, this role will implement and develop operational standards, policies and procedures to expanded cross-functional organizational capacity and implement successful strategies to maximize revenue.<div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4299670007,
+    "name": "Founding Engineer (Krish)",
+    "status": "open",
+    "opened_at": "2024-08-15T20:52:10.167Z",
+    "departments": ["IT"],
+    "openings": 1,
+    "employment_type": null,
+    "salary_details": {
+      "min_value": "120000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "San Francisco",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "LinkedIn Profile",
+        "name": "question_7008255007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "Website",
+        "name": "question_7008256007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4063670007,
+    "name": "Sample Job 3",
+    "status": "open",
+    "opened_at": "2023-09-29T14:34:58.445Z",
+    "departments": ["Sales"],
+    "openings": 1,
+    "employment_type": "Temporary",
+    "salary_details": {
+      "min_value": "150000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "Philippines",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div>We are seeking a talented Sample Job 3 to join our team! Reporting into our Sales department, this role will implement and develop operational standards, policies and procedures to expanded cross-functional organizational capacity and implement successful strategies to maximize revenue.<div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4292019007,
+    "name": "Copy of Founding Engineer (Daniel)",
+    "status": "open",
+    "opened_at": "2024-08-14T14:12:25.995Z",
+    "departments": ["IT"],
+    "openings": 1,
+    "employment_type": null,
+    "salary_details": {
+      "min_value": "120000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "San Francisco",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "LinkedIn Profile",
+        "name": "question_6992219007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "Website",
+        "name": "question_6992218007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4275000007,
+    "name": "[OM GANDHI] - Software Engineer",
+    "status": "open",
+    "opened_at": "2024-07-24T18:59:07.274Z",
+    "departments": ["IT"],
+    "openings": 4,
+    "employment_type": "Full-time",
+    "location": "San Francisco",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div><p>We are looking for a motivated, dedicated and self-starting founding engineer to join Complete.</p>\n<p>This is more of a (product [<a href=\"https://posthog.com/blog/what-is-a-product-engineer%5D\" target=\"_blank\" rel=\"noopener\">https://posthog.com/blog/what-is-a-product-engineer]</a> or growth [<a href=\"https://posthog.com/blog/what-is-a-growth-engineer%5D\" target=\"_blank\" rel=\"noopener\">https://posthog.com/blog/what-is-a-growth-engineer]</a> engineering role rather than traditional software engineering in that we want you to have a lot of ownership in what you build</p>\n<p>This is a full-stack role and we use a variety of modern technologies including Next.js, Vercel, Typescript.</p>\n<p>We're looking for our second Engineer and would work closely with the co-founders, especially the CTO (Pochahontas), along with our founding engineer to develop our core product of enabling a recruiter-driven marketplace.</p><div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "LinkedIn Profile",
+        "name": "question_6853094007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "Website",
+        "name": "question_6853093007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4300688007,
+    "name": "Founding Engineer (Dhruva)",
+    "status": "open",
+    "opened_at": "2024-08-16T19:26:52.143Z",
+    "departments": ["IT"],
+    "openings": 1,
+    "employment_type": null,
+    "salary_details": {
+      "min_value": "120000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "San Francisco",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "LinkedIn Profile",
+        "name": "question_7015799007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "Website",
+        "name": "question_7015800007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4301175007,
+    "name": "Founding Engineer (Joyce)",
+    "status": "open",
+    "opened_at": "2024-08-17T03:08:25.401Z",
+    "departments": ["IT"],
+    "openings": 1,
+    "employment_type": null,
+    "salary_details": {
+      "min_value": "120000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "San Francisco",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "LinkedIn Profile",
+        "name": "question_7018203007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "Website",
+        "name": "question_7018204007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      }
+    ]
+  },
+  {
+    "id": 4301204007,
+    "name": "Founding Engineer (Dat)",
+    "status": "open",
+    "opened_at": "2024-08-18T08:42:04.558Z",
+    "departments": ["IT"],
+    "openings": 1,
+    "employment_type": null,
+    "salary_details": {
+      "min_value": "120000.0",
+      "max_value": "180000.0",
+      "unit": "USD"
+    },
+    "location": "San Francisco",
+    "content": "<div class=\"content-intro\">We believe in the power of people. Because the potential for people to do something\n                                    outstanding has everything to do with being in the right role, on the right team,\n                                    at the right time. That’s where Paraform Integration Sandbox comes in.</div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><div class=\"content-conclusion\">We offer a full slate of benefits from competitive salaries, stock options, fully\n                                   paid options for health coverage (medical, dental and vision), disability coverage,\n                                   employer paid life insurance, mental health resources, financial wellness benefits,\n                                   and a fully paid parental leave program. For US-based employees, we offer flexible\n                                   vacation and a 401(k) matching program.</div>",
+    "questions": [
+      {
+        "required": true,
+        "private": false,
+        "label": "First Name",
+        "name": "first_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Last Name",
+        "name": "last_name",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": true,
+        "private": false,
+        "label": "Email",
+        "name": "email",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Phone",
+        "name": "phone",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Resume",
+        "name": "resume",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": false,
+        "private": false,
+        "label": "Cover Letter",
+        "name": "cover_letter",
+        "type": "attachment",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "LinkedIn Profile",
+        "name": "question_7018425007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      },
+      {
+        "required": null,
+        "private": false,
+        "label": "Website",
+        "name": "question_7018426007",
+        "type": "short_text",
+        "values": [],
+        "description": null
+      }
+    ]
+  }
+]
