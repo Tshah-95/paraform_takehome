@@ -17,11 +17,11 @@ declare type Job = {
   location: string;
   openings: number;
   employment_type?: string;
-  content?: string;
-  questions?: Question[];
+  content: string;
+  questions: Question[];
   salary_details?: {
-    min: number;
-    max: number;
-    currency: string;
+    min_value: number;
+    max_value: number;
+    unit: string;
   };
 };
