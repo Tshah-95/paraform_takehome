@@ -16,7 +16,7 @@ import { Banknote, MapPin, PencilLine, ScrollText, Timer } from "lucide-react";
 import numeral from "numeral";
 import { formatDistance } from "date-fns";
 import { Button } from "@/components/ui/button";
-import { ApplyDialog } from "@/components/ui/apply-dialog";
+import { ApplyDialog } from "@/app/components/apply-dialog";
 
 export default function Home() {
   const { data, isLoading } = useSWR<Job[]>("/api/jobs", fetcher);

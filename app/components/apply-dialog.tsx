@@ -1,4 +1,4 @@
-import { Button } from "./button";
+import { Button } from "../../components/ui/button";
 import {
   Dialog,
   DialogContent,
@@ -7,9 +7,9 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "./dialog";
-import { Input } from "./input";
-import { Label } from "./label";
+} from "../../components/ui/dialog";
+import { Input } from "../../components/ui/input";
+import { Label } from "../../components/ui/label";
 import Balancer from "react-wrap-balancer";
 import { useCallback, useMemo, useState } from "react";
 import { useForm } from "react-hook-form";
@@ -54,11 +54,13 @@ export function ApplyDialog({
       toast({
         description: "Error submitting form",
         title: res.status.toString(),
+        duration: 3000,
       });
     } else {
       toast({
         title: "Application submitted!",
         description: `Thank you for your interest in ${job?.name}.`,
+        duration: 3000,
       });
     }
   };
@@ -67,7 +69,11 @@ export function ApplyDialog({
     return job
       ? job?.questions.map((question) => {
           const inputType =
-            question.type === "short_text"
+            question.name === "phone"
+              ? "tel"
+              : question.name === "email"
+              ? "email"
+              : question.type === "short_text"
               ? "text"
               : question.type === "long_text"
               ? "textarea"
@@ -86,6 +92,7 @@ export function ApplyDialog({
                   placeholder={question.label}
                   type={inputType}
                   required={!!question.required}
+                  pattern={inputType === "tel" ? "[0-9]*" : undefined}
                   {...register(question.name)}
                 />
               ) : (
@@ -125,6 +132,7 @@ export function ApplyDialog({
           onSubmit={handleSubmit(onSubmit)}
         >
           {jobQuestions}
+          <Input type="hidden" value={job?.id} {...register("job_id")} />
         </form>
         <DialogFooter>
           <Button
