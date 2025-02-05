@@ -96,7 +96,7 @@ export default function Home() {
         <div className="p-8 pt-12 flex flex-col">
           <h1 className="text-2xl font-bold mb-4">Mission</h1>
           <span
-            className="max-h-fit mb-0"
+            className=""
             dangerouslySetInnerHTML={{
               __html: DOMPurify.sanitize(job.content),
             }}
@@ -107,13 +107,11 @@ export default function Home() {
   }, [data]);
 
   return (
-    <main className="flex min-h-screen max-w-[100vw] flex-col items-center justify-between p-0 sm:p-24 pb-24 bg-neutral-100">
+    <main className="flex min-h-screen max-w-[100vw] flex-col items-center justify-between p-0 sm:p-24 pb-16 bg-neutral-100">
       <div className="absolute h-[280px] sm:h-[380px] w-full bg-orange-400 top-0 left-0" />
       <div className="relative w-full max-w-screen-lg">
         <Carousel className="flex w-full" setApi={setApi}>
-          <CarouselContent className="w-full max-h-screen">
-            {jobPanels}
-          </CarouselContent>
+          <CarouselContent className="w-full">{jobPanels}</CarouselContent>
           <CarouselNext className="absolute hidden sm:flex bg-primary text-white hover:bg-primary hover:opacity-80 hover:text-white" />
           <CarouselPrevious className="absolute hidden sm:flex bg-primary text-white hover:bg-primary hover:opacity-80 hover:text-white" />
         </Carousel>
